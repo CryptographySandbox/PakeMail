@@ -1,0 +1,4 @@
+PyNaCl=1.4.0
+hkdf=0.0.3=pypi_0
+python-gnupg=0.4.6=pypi_0
+spake2=0.8=pypi_0
